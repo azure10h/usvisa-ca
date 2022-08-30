@@ -24,7 +24,7 @@ SHOW_GUI = True
 # Enter 1 if you want slots in this month or next month (as early as possible);
 # Enter 2 if you want slots in this month or the next months (as early as possible);
 # And so on
-MAX_WAIT_MONTH = 6
+MAX_WAIT_MONTH = 8
 
 # You are advised to use the default values for the following variables
 # The number of seconds before retry, when there's a slot (but wait time is too long)/when there's no slot
