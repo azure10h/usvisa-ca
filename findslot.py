@@ -13,8 +13,8 @@ import os
 ########################################
 
 # Your email and password for ais.usvisa-info.com
-USER_EMAIL = "name@gmail.com"
-USER_PASSWORD = "yourpassword"
+USER_EMAIL = "azure10h@gmail.com"
+USER_PASSWORD = "Hyl19960109@"
 
 # Use "True" if you want to see Chrome in action, leave as "False" otherwise
 SHOW_GUI = True
